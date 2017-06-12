@@ -1,0 +1,2 @@
+# PMING
+práctico de máquina
